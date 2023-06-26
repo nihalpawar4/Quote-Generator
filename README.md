@@ -25,5 +25,5 @@ The application logic is written in the 'index.js' file, and the HTML and CSS ar
 
 To add more Quote APIs, you can modify the 'fetchQuote' function in the 'index.js' file.
 
-## MADE BY LOVE NIHAL PAWAR
+## MADE WITH LOVE NIHAL PAWAR
 
